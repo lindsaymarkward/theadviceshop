@@ -1,0 +1,55 @@
+/* CSS Document */
+
+body {
+	margin: 0px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+h1 {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+p { font-family:times new roman; }
+nav {
+	/* background: #43ADD1; */
+	clear: both;
+	margin-top: 2.5em;
+	background-color: #719B3F;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+
+nav ul li {
+	display: inline-block;
+	list-style-type: none;
+	text-align: center;
+	box-sizing: border-box;
+	width: 19%;
+	border: thin solid #000000;
+	border-radius: 10px;
+	background-color: #565656;
+}
+
+nav ul li:hover {
+	background: #A8CFB1
+}
+
+nav ul li a {
+	display: block;
+	text-decoration: none;
+	padding-left: 5px;
+	padding-right: 5px;
+	color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.rightImage {
+	float: right;
+}
+
+footer, header#pageHeader {
+	background-color: #565656;
+	color: #FFFFFF;
+	text-align: left;
+	padding-top: 1.5em;
+	padding-right: 1.5em;
+	padding-bottom: 1.5em;
+	padding-left: 1.5em;
+}
