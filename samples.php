@@ -18,9 +18,9 @@ include("inc_nav.php"); ?>
   $result = $dbh->query($sql);
   foreach ($result as $row) {
 	//  print_r($row);
-	echo "<blockquote>\n<p><a href=\"quote.php?id=", $row[id], "\"><em>&quot;", $row[quote], "&quot;</em></a> - <strong>", $row[author], "</strong>";
-	if ($row[year] != "")
-		echo " (", $row[year], ")";
+	echo "<blockquote>\n<p><a href=\"quote.php?id=", $row['id'], "\"><em>&quot;", $row['quote'], "&quot;</em></a> - <strong>", $row['author'], "</strong>";
+	if ($row['year'] != "")
+		echo " (", $row['year'], ")";
 	echo "</p>\n</blockquote>\n";
   }
   ?>

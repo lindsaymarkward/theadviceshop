@@ -6,7 +6,7 @@ body {
 	margin: 0px;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 }
-h1 {
+h1, h2, h3, h4, h5 {
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 }
 #content {
@@ -97,6 +97,9 @@ header#pageHeader a {
     height: 0;
     clear: both;
 }
+.clearfix {
+        margin-bottom: 8em;
+}
 #features div {
     width: 33%;
 /*    border: thin solid grey;*/
@@ -141,4 +144,24 @@ h2 {
     float: left;
     width: 48%;
     margin-right: 1%;
+}
+
+#login {
+    float: right;
+    width: 12em;
+}
+#login input[type="submit"] {
+    margin-left: 1em;
+}
+
+footer .user {
+    float: right;
+}
+
+footer a {
+    color: aliceblue;
+}
+
+footer .copyright {
+    float: left;
 }

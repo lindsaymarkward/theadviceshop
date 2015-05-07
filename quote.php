@@ -12,14 +12,14 @@
 include("inc_nav.php"); ?>
 <div id="content">
   <?php 
-  $sql = "select * from quotes where id=" . $_GET[id];
+  $sql = "select * from quotes where id=" . $_GET['id'];
   $result = $dbh->query($sql); // should only be one record
   $row = $result->fetch(PDO::FETCH_ASSOC);
-  echo "<h2>Quote by ", $row[author];
-    if ($row[year] != "")
-	echo " (", $row[year], ")";
+  echo "<h2>Quote by ", $row['author'];
+    if ($row['year'] != "")
+	echo " (", $row['year'], ")";
   echo "</h2>";
-  echo "<blockquote><em>&quot;", $row[quote], "&quot;</em>";
+  echo "<blockquote><em>&quot;", $row['quote'], "&quot;</em>";
 
   echo "\n</blockquote>\n";
   ?>

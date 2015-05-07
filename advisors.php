@@ -1,3 +1,4 @@
+<?php require("dbconnect.php"); ?>
 <!doctype html>
 <html>
 <head>
@@ -30,7 +31,6 @@
         <img class="img-circle" src="images/VanillaIce_250.jpg" height="250" alt="Vanilla Ice">
         <blockquote>Stop. Collaborate and listen.</blockquote>
     </div>
-     
 </section>
 <?php include("inc_footer.php"); ?>
 </body>

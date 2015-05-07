@@ -13,7 +13,8 @@ include("inc_nav.php"); ?>
 <h2>Subscribe now for great advice in any situation!</h2>
 <div id="content">
 
-<p>...<form action="process.php" method="get">
+    <p>...</p>
+    <form action="process.php" method="get">
   <p>
     <label for="name">Name:</label>
     <input type="text" name="name" id="name" required>
@@ -32,7 +33,6 @@ include("inc_nav.php"); ?>
     <input type="submit" name="submit" id="submit" value="Subscribe">
   </p>
 </form>
-</p>
 </div>
 <?php include("inc_footer.php"); ?>
 </body>
