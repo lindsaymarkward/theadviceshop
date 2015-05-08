@@ -89,7 +89,7 @@ header#pageHeader a {
     background-color: beige;
     clear: both;
     border: thin black solid;
-    
+    margin-top: -5em; /* 'undo' usual bottom margin on content div */
 }
 .clearfix:after {
     content: " ";
