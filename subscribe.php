@@ -12,8 +12,6 @@
 include("inc_nav.php"); ?>
 <h2>Subscribe now for great advice in any situation!</h2>
 <div id="content">
-
-    <p>...</p>
     <form action="process.php" method="get">
   <p>
     <label for="name">Name:</label>
@@ -21,11 +19,11 @@ include("inc_nav.php"); ?>
   </p>
   <p>Gender:<br>
     <label>
-      <input type="radio" name="gender" value="male" id="gender_0">
+      <input type="radio" name="gender" value="male" id="gender_male">
       Male</label>
     <br>
     <label>
-      <input type="radio" name="gender" value="female" id="gender_1">
+      <input type="radio" name="gender" value="female" id="gender_female">
       Female</label>
     <br>
   </p>

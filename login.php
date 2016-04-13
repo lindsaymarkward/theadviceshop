@@ -5,4 +5,3 @@ $_SESSION['username'] = $_REQUEST['username'];
 //echo $_GET['page'];
 header("Location: ".$_GET['page'].".php");
 exit();
-?>

@@ -12,7 +12,7 @@
 <?php include("inc_nav.php"); ?>
 <h2>Advisors</h2>
 <div id="content">
-  <p>You want only the best advice, so we have only the best advisors...</p>
+  <p>You want only the very best advice, so we have only the best advisors...</p>
 </div>
 <p>&nbsp;</p>
 <section id="features" class="clearfix">
