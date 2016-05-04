@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <title>The Advice Shop - Subscribed</title>
-<link href="mainstyles.css" rel="stylesheet" type="text/css" media="screen">
+<link href="styles/mainstyles.css" rel="stylesheet" type="text/css" media="screen">
 </head>
 
 <body>
@@ -21,7 +21,8 @@ else {
 
 <div id="content">
 
-<p>...<form action="process.php" method="get">
+<p>...</p>
+  <form action="process.php" method="get">
   <p>
     <label for="name">Name:</label>
     <input type="text" name="name" id="name" required>
@@ -40,7 +41,6 @@ else {
     <input type="submit" name="submit" id="submit" value="Subscribe">
   </p>
 </form>
-</p>
 </div>
 <?php include("inc_footer.php"); ?>
 </body>
