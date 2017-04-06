@@ -17,7 +17,7 @@ include( "inc_nav.php" ); ?>
         and fast pace of
         the modern world. Let us help you go beyond your current limits and experience the next level of success!</p>
 
-    <p>We specialise in providing advice. We've got opinions, tips, suggestions and all kinds of advice for any
+    <p>We specialise in providing advice. We've got <strong>great</strong> opinions, tips, suggestions and all kinds of advice for any
         situation. </p>
 
     <p><a href="subscribe.php">Subscribe now</a> to our professional advice service.</p>
