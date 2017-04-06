@@ -1,4 +1,8 @@
-<?php include("dbconnect.php"); ?>
+<?php include("dbconnect.php");
+if (empty($_GET['id'])) {
+    header("Location:samples.php");
+}
+?>
 <!doctype html>
 <html>
 <head>
@@ -11,7 +15,7 @@
 <?php include("inc_header.php");
 include("inc_nav.php"); ?>
 <div id="content">
-  <?php 
+  <?php
   $sql = "select * from quotes where id=" . $_GET['id'];
   $result = $dbh->query($sql); // should only be one record
   $row = $result->fetch(PDO::FETCH_ASSOC);
