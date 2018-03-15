@@ -22,6 +22,7 @@ include( "inc_nav.php" ); ?>
 
     <p><a href="subscribe.php">Subscribe now to our professional advice service.</a></p>
 
+    <h3>Services</h3>
     <p><img src="images/womanHeadset.jpg" alt="" width="310" height="200"
                                       class="rightImage"/>For all advice related to:</p>
     <ul>
@@ -31,9 +32,7 @@ include( "inc_nav.php" ); ?>
         <li>Coffee</li>
         <li>and anything else...</li>
     </ul>
-    <h3>Services</h3>
 
-    <p>We have great things.</p>
 </section>
 <?php include( "inc_footer.php" ); ?>
 </body>
