@@ -20,7 +20,7 @@ include( "inc_nav.php" ); ?>
     <p>We specialise in providing advice. We've got <strong>great</strong> opinions, tips, suggestions and all kinds of advice for any
         situation. </p>
 
-    <p><a href="subscribe.php">Subscribe now</a> to our professional advice service.</p>
+    <p><a href="subscribe.php">Subscribe now to our professional advice service.</a></p>
 
     <p>For all advice related to:<img src="images/womanHeadset.jpg" alt="" width="310" height="200"
                                       class="rightImage"/></p>
