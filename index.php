@@ -32,6 +32,9 @@ include( "inc_nav.php" ); ?>
         <li>Technology</li>
         <li>Coffee</li>
         <li>and many more...</li>
+        <li>
+          Long lectures too :)
+        </li>
     </ul>
 
 </section>
