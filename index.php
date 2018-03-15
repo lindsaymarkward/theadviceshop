@@ -13,7 +13,7 @@ include( "inc_nav.php" ); ?>
 <section id="content">
     <h2>Welcome to The Advice Shop </h2>
 
-    <p><strong>You need advice</strong>. It's impossible these days to really succeed on your own with the complexity
+    <p><strong>You need advice</strong>. These days, it's impossible to <em>really</em> succeed on your own with the complexity
         and fast pace of
         the modern world. Let us help you go beyond your current limits and experience the next level of success!</p>
 
