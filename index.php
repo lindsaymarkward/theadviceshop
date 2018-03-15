@@ -22,13 +22,13 @@ include( "inc_nav.php" ); ?>
 
     <p><a href="subscribe.php">Subscribe now to our professional advice service.</a></p>
 
-    <p>For all advice related to:<img src="images/womanHeadset.jpg" alt="" width="310" height="200"
-                                      class="rightImage"/></p>
+    <p><img src="images/womanHeadset.jpg" alt="" width="310" height="200"
+                                      class="rightImage"/>For all advice related to:</p>
     <ul>
         <li>Learning</li>
         <li>Relationships</li>
-        <li>IT</li>
-        <li>Language</li>
+        <li>Technology</li>
+        <li>Coffee</li>
         <li>and anything else...</li>
     </ul>
     <h3>Services</h3>
