@@ -31,7 +31,7 @@ include( "inc_nav.php" ); ?>
         <li>Relationships</li>
         <li>Technology</li>
         <li>Coffee</li>
-        <li>and many more...</li>
+        <li>and so much more...</li>
     </ul>
 
 </section>
