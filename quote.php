@@ -8,7 +8,7 @@ if (empty($_GET['id'])) {
 <head>
 <meta charset="UTF-8">
 <title>The Advice Shop - Quote</title>
-<link href="mainstyles.css" rel="stylesheet" type="text/css" media="screen">
+<link href="styles/mainstyles.css" rel="stylesheet" type="text/css" media="screen">
 </head>
 
 <body>

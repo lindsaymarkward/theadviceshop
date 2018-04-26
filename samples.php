@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <title>The Advice Shop - Sample Advice</title>
-<link href="mainstyles.css" rel="stylesheet" type="text/css" media="screen">
+<link href="styles/mainstyles.css" rel="stylesheet" type="text/css" media="screen">
 </head>
 
 <body>
