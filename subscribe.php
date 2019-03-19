@@ -10,7 +10,7 @@
 <body>
 <?php include("inc_header.php");
 include("inc_nav.php"); ?>
-<h2>Subscribe now for great advice! We'll help you :)</h2>
+<h2>Subscribe now for great advice!!!</h2>
 <div id="content">
     <form action="process.php" method="get">
   <p>
