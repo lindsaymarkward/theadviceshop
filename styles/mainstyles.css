@@ -13,6 +13,10 @@ h1, h2, h3, h4, h5 {
     font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 }
 
+body h2 {
+        margin-left: 1em;
+}
+
 #content {
     width: 75%;
     min-width: 540px;
