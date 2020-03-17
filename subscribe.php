@@ -10,7 +10,8 @@
 <body>
 <?php include("inc_header.php");
 include("inc_nav.php"); ?>
-<h2>Subscribe now for great advice!!!</h2>
+<h2>Subscribe now for great advice!</h2>
+<h3>We are so confident, we offer a mone-back guarantee :)</h3>
 <div id="content">
     <form action="process.php" method="get">
   <p>
