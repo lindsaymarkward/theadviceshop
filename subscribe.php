@@ -11,7 +11,7 @@
 <?php include("inc_header.php");
 include("inc_nav.php"); ?>
 <h2>Subscribe now for great advice!</h2>
-<h3>We are so confident, we offer a mone-back guarantee :)</h3>
+<h3>We are so confident, we offer a money-back guarantee :)</h3>
 <div id="content">
     <form action="process.php" method="get">
   <p>
@@ -32,6 +32,7 @@ include("inc_nav.php"); ?>
     <input type="submit" name="submit" id="submit" value="Subscribe">
   </p>
 </form>
+<p>Try us out. You won't be disappointed.</p>
 </div>
 <?php include("inc_footer.php"); ?>
 </body>
