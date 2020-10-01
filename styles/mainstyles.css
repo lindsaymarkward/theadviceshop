@@ -5,8 +5,10 @@
 body {
     min-width: 640px;
     margin: 0;
-    /*font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;*/
-    font-family: 'Open Sans', sans-serif;
+    /*
+font-family: 'Baloo Bhai 2', cursive;;*/
+    
+font-family: 'Baloo Bhai 2', cursive;
 }
 
 h1, h2, h3, h4, h5 {
