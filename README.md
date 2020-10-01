@@ -1,4 +1,4 @@
-# theadviceshop
+# theadviceshop --one stop to all advices
 *The Advice Shop Website*
 
 This is an Example Site for Web Design (CP1406, CP3402) at JCU
