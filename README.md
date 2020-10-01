@@ -7,7 +7,7 @@ First created for the 2015 class in Townsville, by Lindsay Ward
 
 Demonstrates a few useful things like:
 
-- Navigation highlights the current page
+- Navigation highlights the current page for better experience.
 - **SQLite** database integration (just read) for quotes
 - List of quotes -> link to individual quotes
 - Super-basic "login" form demonstrates PHP **sessions** 
