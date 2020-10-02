@@ -46,6 +46,7 @@ nav ul li {
     border: thin solid #000000;
     border-radius: 10px;
     background-color: #565656;
+    box-shadow:3px 2px 2px gray;
 }
 
 nav ul li:hover {
